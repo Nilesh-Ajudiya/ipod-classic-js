@@ -1,6 +1,6 @@
 ![ipod_og](https://user-images.githubusercontent.com/21055469/71636084-6081a800-2be0-11ea-98ee-9599a3396c84.png)
 
-### by Tanner Villarete | [LinkedIn](http://linkedin.com/in/tvillarete) | [Website](http://tannerv.com)
+### by Nilesh Ajudiya | [LinkedIn](www.linkedin.com/in/nilesh-ajudiya)
 
 Before the days of streaming services, we relied on physical devices to store our limited libraries of music. Now with the streaming age, we no longer rely on physical storage and have endless hours of songs at our disposal. This project is an homage to the good 'ol days. A mix of the old and new. Experience the iPod Classic you used to own that now connects to Spotify and Apple Music — the two most popular music streaming platforms in the world.
 
